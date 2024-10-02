@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HasanEROL1
+- 👋 Hi, I’m @HasanEROL
 - 🌱 I’m currently learning front-end
   -
 HasanEROL1/HasanEROL1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
