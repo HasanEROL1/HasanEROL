@@ -1,6 +1,8 @@
--  Hi, I’m @HasanEROL
-- I’m currently learning front-end
+# Merhaba, Ben Hasan EROL 👋
 
-HasanEROL1/HasanEROL1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Frontend Developer | React & Node.js
+
+HTML, CSS, JavaScript, React ile web uygulamaları geliştiriyorum.
+Node.js ve MongoDB ile backend geliştirmeyi öğreniyorum.
+
+🌐 [hasanerol.dev](https://hasanerol.dev)
